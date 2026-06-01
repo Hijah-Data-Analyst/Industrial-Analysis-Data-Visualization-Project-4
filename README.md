@@ -1,33 +1,15 @@
-# Industrial-Analysis-Data-Visualization-Project-4
+# Industrial Analysis Data Visualization Project 4
 Data visualization project analyzing industrial business performance using Python (pandas &amp; matplotlib). Covers order trends, customer behavior, coupon usage, and product KPIs through 6 professional charts.
-# 📊 Data Analytics — Project 4: Data Visualization
-
-> **Industrial Training Kit | DecodeLabs Batch 2026**
-> *Mastery Phase: Translating raw data into boardroom-ready visual insights.*
 
 ---
 
-## 📌 Project Overview
-
-This project is the **optional mastery milestone** of the DecodeLabs Data Analytics Industrial Training Program. The goal is to move beyond data exploration and deliver clear, executive-ready visualizations that communicate business insights through storytelling.
+## Project Overview
+The goal is to move beyond data exploration and deliver clear, executive-ready visualizations that communicate business insights through storytelling.
 
 The project follows the three disciplines of a professional data analyst:
-- 🏗️ **The Architect** — Choose the right chart for the right question
-- ✏️ **The Editor** — Remove clutter, maximize data clarity
-- 📖 **The Storyteller** — Frame every chart around a business decision
-
----
-
-## 🗂️ Project Series
-
-| Project | Focus |
-|---|---|
-| Project 1 | Dashboard (Excel) |
-| Project 2 | Exploratory Data Analysis (EDA) |
-| Project 3 | Data Analysis using SQL |
-| **Project 4** | **Data Visualization (Python)** ← You are here |
-
----
+- **The Architect** — Choose the right chart for the right question
+- **The Editor** — Remove clutter, maximize data clarity
+- **The Storyteller** — Frame every chart around a business decision
 
 ## 🎯 Business Objectives
 
@@ -89,7 +71,7 @@ project4-data-visualization/
 │   ├── chart1_quantity_by_order_status.png
 │   ├── chart2_quantity_over_time.png
 │   ├── chart3_quantity_by_coupon_code.png
-│   ├── chart4_avg_price_by_referral_source.png
+│   ├── chart4_average_price_by_referral_source.png
 │   ├── chart5_items_in_cart_by_customer.png
 │   └── chart6_all_metrics_by_product.png
 │
@@ -141,10 +123,10 @@ Or open the `.py` file directly and run it in any Python environment.
 
 ---
 
-## 👤 Author
+## Conclusion
+This project analyzed 1,200 rows of industrial business data and revealed that Shipped orders hold the highest item quantity, with seasonal fluctuations in demand across 2023–2024. The SAVE10 coupon drives the most orders, while Direct traffic generates the highest average order value. Monitor and Phone products consistently lead across all KPIs, with a total of 3,535 items ordered at an average price of $356.41.
 
-**Data Analyst Intern — DecodeLabs Industrial Training Program**
-Batch 2026
+
 
 ---
 
