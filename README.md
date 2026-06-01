@@ -11,7 +11,7 @@ The project follows the three disciplines of a professional data analyst:
 - **The Editor** — Remove clutter, maximize data clarity
 - **The Storyteller** — Frame every chart around a business decision
 
-## 🎯 Business Objectives
+## Business Objectives
 
 The following 6 business questions were answered through data visualization:
 
@@ -26,7 +26,7 @@ The following 6 business questions were answered through data visualization:
 
 ---
 
-## 📈 KPI Summary
+## KPI Summary
 
 | KPI | Value |
 |---|---|
@@ -37,7 +37,7 @@ The following 6 business questions were answered through data visualization:
 
 ---
 
-## 🔍 Key Insights
+## Key Insights
 
 - **Shipped** orders account for the highest quantity of items among all order statuses
 - Order quantity shows **seasonal fluctuations** across 2023–2024
@@ -47,7 +47,7 @@ The following 6 business questions were answered through data visualization:
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - **Language:** Python 3
 - **Environment:** Jupyter Notebook
@@ -59,7 +59,7 @@ The following 6 business questions were answered through data visualization:
 
 ---
 
-## 📁 File Structure
+## File Structure
 
 ```
 project4-data-visualization/
@@ -80,7 +80,7 @@ project4-data-visualization/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. Clone this repository or download the files
 2. Place `Dataset_for_Data_Analytics.xlsx` in the same folder as the script
@@ -101,7 +101,7 @@ Or open the `.py` file directly and run it in any Python environment.
 
 ---
 
-## 📊 Chart Previews
+## Chart Previews
 
 ### Chart 1 — Total Quantity by Order Status
 ![Chart 1](charts/chart1_quantity_by_order_status.png)
@@ -126,9 +126,4 @@ Or open the `.py` file directly and run it in any Python environment.
 ## Conclusion
 This project analyzed 1,200 rows of industrial business data and revealed that Shipped orders hold the highest item quantity, with seasonal fluctuations in demand across 2023–2024. The SAVE10 coupon drives the most orders, while Direct traffic generates the highest average order value. Monitor and Phone products consistently lead across all KPIs, with a total of 3,535 items ordered at an average price of $356.41.
 
-
-
 ---
-
-*"Bring the rigor of a data scientist and the clarity of a consultant. Make your insights impossible to ignore."*
-— DecodeLabs Project 4 Playbook
